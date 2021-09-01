@@ -19,3 +19,6 @@
 5. <Resample>+<jitter> solution
 
 ![屏幕截图 2021-09-02 042955](https://user-images.githubusercontent.com/63625631/131740597-71f2464a-369b-4031-a1d1-1101a0cf68c5.jpg)
+
+![屏幕截图 2021-09-02 043335](https://user-images.githubusercontent.com/63625631/131741110-31f171d3-4185-4d75-ac54-a139947e18e1.jpg)
+
